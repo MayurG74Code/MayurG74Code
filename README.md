@@ -12,6 +12,3 @@
 Linux | Git | GitHub | Apache | Tomcat | Bash | Yum | Crontab | Jenkins | Docker | MySQL | Nginx | RabbitMQ | LVM
 
 ---
-
-### 📊 GitHub Stats:
-![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayurG74Code&show_icons=true&theme=radical)
