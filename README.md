@@ -19,3 +19,19 @@ In DevOps, I utilize tools like Git 🐙, Docker 🐳, and Kubernetes 🧠, alon
   <a href="https://www.youtube.com/@TheTechzeen" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mayurg74/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+
+<h2 align="center">🚀💥 Tools & Technologies 💥🚀</h2>
+
+<p align="center">
+  <!-- Tech Logos -->
+  <img src="https://skillicons.dev/icons?i=react,angular,github,git,linux,docker,gitlab,aws,ansible,grafana,jenkins,html,css,cpp,redux,vscode&theme=dark" />
+</p>
+
+---
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayurg74&show_icons=true&theme=radical&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurg74&layout=compact&theme=radical" />
+</p>
+
