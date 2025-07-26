@@ -4,7 +4,7 @@
 
 ---
 
-## <h2 align="center"> A Passionate about Devops Engineer </h2> 🖥️🎥
+ <h2 align="center"> A Passionate about Devops Engineer 🖥️🎥 </h2>
 
 🌱 I'm Mayur Gadge – An innovative Software Engineer, specializing in Full Stack Web & Mobile Application Development and DevOps Engineering. 🚀
 
