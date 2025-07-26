@@ -12,7 +12,7 @@ With expertise in cutting-edge technologies like React.js, React Native CLI, Rea
 
 In DevOps, I utilize tools like Git 🐙, Docker 🐳, and Kubernetes 🧠, along with cloud platforms such as AWS ☁️ and Azure 🌐 to streamline development processes and enhance deployment efficiency.
 
-👥 I'm also the creator of [The Techzeen](https://www.youtube.com/@TheTechzeen) – a YouTube channel offering concise, beginner-friendly programming tutorials in Urdu/Hindi. Whether you're a student, professional, or tech enthusiast, my content empowers you to level up your coding skills with ease. ⚡
+👥 I'm also the creator of [The Techzeen](https://www.youtube.com/@TheTechzeen) – a YouTube channel offering concise, beginner-friendly programming tutorials in < Marathi/Hindi. Whether you're a student, professional, or tech enthusiast, my content empowers you to level up your coding skills with ease. ⚡
 
 <p align="center">
   <a href="mailto:gadgemayur428@example.com"><img src="https://img.shields.io/badge/Gmail-%237D2C89?style=for-the-badge&logo=gmail&logoColor=white" /></a>
