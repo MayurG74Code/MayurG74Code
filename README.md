@@ -4,9 +4,9 @@
 
 ---
 
-## A Passionate about Devops Engineer 🖥️🎥
+## <h2 align="center"> A Passionate about Devops Engineer </h2> 🖥️🎥
 
-🌱 I'm Farzeen Ali – An innovative Software Engineer, specializing in Full Stack Web & Mobile Application Development and DevOps Engineering. 🚀
+🌱 I'm Mayur Gadge – An innovative Software Engineer, specializing in Full Stack Web & Mobile Application Development and DevOps Engineering. 🚀
 
 With expertise in cutting-edge technologies like React.js, React Native CLI, React Native Expo, Next.js 15, Angular 19, NestJS, Firebase, Node.js, Express.js, MongoDB, PostgreSQL, and more, I craft sleek, high-performing web and mobile applications tailored to user needs.
 
