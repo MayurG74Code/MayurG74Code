@@ -1,12 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mayur Gadge</h1>
-<h3 align="center">Linux System Engineer | DevOps Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Mayur+Gadge+%7C+Linux+System+Engineer+%26+Aspiring+DevOps+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-- 🔧 Currently working on **Linux, Apache Tomcat, Shell Scripting**
-- 🌱 Learning **Jenkins, Docker, Git, CI/CD Pipelines**
-- 🚀 Passionate about **System Automation and Monitoring**
-- 📫 Connect on [LinkedIn](https://www.linkedin.com/in/mayurgadge)
-
----
 
 ## 🚀 Tools & Technologies
 
@@ -25,5 +20,3 @@
 
 ---
 
-
-![Mayur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayurgadge&show_icons=true&theme=dark)
