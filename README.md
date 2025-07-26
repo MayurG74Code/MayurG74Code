@@ -29,8 +29,3 @@ In DevOps, I utilize tools like Git 🐙, Docker 🐳, and Kubernetes 🧠, alon
 
 ---
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayurg74&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurg74&layout=compact&theme=radical" />
-</p>
-
