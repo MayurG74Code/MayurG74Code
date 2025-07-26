@@ -1,8 +1,6 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Farzeen+Ali+👨🏻‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Mayur+Gadge+👨🏻‍💻;" />
 </h1>
-
-<h2 align="center">I'm Farzeen Ali 🧕🏻</h2>
 
 ---
 
@@ -19,5 +17,5 @@ In DevOps, I utilize tools like Git 🐙, Docker 🐳, and Kubernetes 🧠, alon
 <p align="center">
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-%237D2C89?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.youtube.com/@TheTechzeen" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mayurg74/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
