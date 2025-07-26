@@ -24,7 +24,7 @@ In DevOps, I utilize tools like Git 🐙, Docker 🐳, and Kubernetes 🧠, alon
 
 <p align="center">
   <!-- Tech Logos -->
-  <img src="https://skillicons.dev/icons?i=react,angular,github,git,linux,docker,gitlab,aws,ansible,grafana,jenkins,html,css,cpp,redux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,angular,github,git,linux,docker,gitlab,aws,ansible,grafana,jenkins,html,css,cpp,vscode&theme=dark" />
 </p>
 
 ---
