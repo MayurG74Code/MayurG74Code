@@ -1,52 +1,60 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Learning+DevOps+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=👨‍💻+Mayur+Gadge+%7C+Linux+System+Engineer+%26+Aspiring+DevOps+Engineer+🚀" alt="Typing SVG" />
 </p>
 
-
-
----
-
-## 👋 Hi, I'm Mayur Gadge
-
-A dedicated **Linux System Engineer** with nearly **2 years of experience** in managing critical infrastructure, system monitoring, and application deployment.  
-I specialize in keeping platforms stable, secure, and highly available — ensuring seamless operations in banking and production environments.
+<h2 align="center">A Passionate Linux System Engineer from India 🇮🇳</h2>
 
 ---
 
-### 🛠️ My Expertise Includes:
+### 👋 Hello World!
 
-- ✅ **System Administration**: Managing RHEL servers, daily health checks, connectivity, and log monitoring  
-- 🔐 **Security**: Implementing and renewing SSL certificates, conducting firewall drills, and managing patching  
-- 🐇 **Middleware & Messaging**: Managing and deploying RabbitMQ, Apache Tomcat, and PHP environments  
-- 🔁 **Database Management**: MySQL upgrades, version sync between UAT & Production, data purging & backup  
-- ⚙️ **DevOps Practices**: URL configuration, automation of deployments, coordination for secure access approval  
-- 📦 **Application Support**: Handling the Axiom application, performance tuning, and log troubleshooting  
+I'm **Mayur Gadge**, a dedicated **Linux System Engineer**, passionate about building stable, secure, and highly available systems.  
+With hands-on experience in system performance, monitoring, and deployment automation, I’m currently diving deep into **DevOps tools** to boost deployment efficiency.
 
 ---
 
-### 🔧 Currently Working On:
+### 💼 Current Role
 
-- 🔄 Upgrading **RHEL 7 to RHEL 8** systems for DC, DR, and UAT  
-- ⚙️ Upgrading **Apache, JDK, PHP**, and **MySQL** stacks for better performance and security  
-
----
-
-### 📚 Learning & Exploring:
-
-- 🔧 **DevOps Tools**: Jenkins, Docker, GitHub Actions  
-- 🚀 **CI/CD Automation** for Java-based apps on Tomcat  
-- ☁️ **AWS Cloud**: EC2, S3, IAM  
-- 📊 **Monitoring**: Prometheus & Grafana  
-- 🐳 **Containerization & Orchestration**: Docker & Kubernetes (in progress)  
+🔧 **Linux System Engineer @ Sinch**  
+🗓️ *Sept 2023 – Present*  
+🌐 *Karachi, Pakistan (Remote)*
 
 ---
 
-### 📫 Let's Connect:
+### 🚀 Skills & Experience
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+- ✅ **System Administration**: RHEL, daily reports, monitoring, log analysis  
+- 🔐 **Security**: SSL certificates, firewall drills, patch management  
+- 🐇 **Middleware**: Apache Tomcat, RabbitMQ, PHP  
+- 💾 **Databases**: MySQL upgrades, data purging, backup  
+- ⚙️ **DevOps Practices**: Jenkins, GitHub Actions, automation  
+- ☁️ **Cloud**: Exploring AWS EC2, S3, IAM  
+- 📦 **Application Support**: Axiom platform tuning and troubleshooting  
 
 ---
+
+### 📚 Currently Learning
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Learning+DevOps+Tools" alt="Typing SVG" />
+</p>
+
+---
+
+### 🚀 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,jenkins,aws,mysql,apache,php,github,vscode,anaconda,rabbitmq" />
+</p>
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 
 ## 🚀 Tools & Technologies
@@ -60,7 +68,6 @@ I specialize in keeping platforms stable, secure, and highly available — ensur
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
 </p>
 
 
