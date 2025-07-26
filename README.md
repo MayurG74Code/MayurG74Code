@@ -1,4 +1,5 @@
-<marquee><b>👨‍💻 Mayur Gadge | Linux System Engineer & Aspiring DevOps Engineer 🚀</b></marquee>
+<h3 align="center">👨‍💻 Mayur Gadge | Linux System Engineer & Aspiring DevOps Engineer 🚀</h3>
+
 
 
 
