@@ -15,7 +15,7 @@ In DevOps, I utilize tools like Git 🐙, Docker 🐳, and Kubernetes 🧠, alon
 👥 I'm also the creator of [The Techzeen](https://www.youtube.com/@TheTechzeen) – a YouTube channel offering concise, beginner-friendly programming tutorials in < Marathi/Hindi. Whether you're a student, professional, or tech enthusiast, my content empowers you to level up your coding skills with ease. ⚡
 
 <p align="center">
-  <a href="mailto:gadgemayur428@example.com"><img src="https://img.shields.io/badge/Gmail-%237D2C89?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:gadgemayur428@gmail.com"><img src="https://img.shields.io/badge/Gmail-%237D2C89?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mayurg74/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
